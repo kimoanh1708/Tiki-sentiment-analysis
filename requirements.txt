@@ -8,3 +8,4 @@ regex
 wordcloud
 underthesea
 imblearn
+nltk_data
