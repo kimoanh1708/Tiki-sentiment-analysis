@@ -1,5 +1,8 @@
 streamlit
 nltk
+wordnet
+pros_cons
+reuters
 numpy
 pandas
 matplotlib
