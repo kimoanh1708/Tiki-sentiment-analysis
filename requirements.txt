@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+regex
+wordcloud
+string
+underthesea
+re
+imblearn
