@@ -7,5 +7,4 @@ scikit-learn
 regex
 wordcloud
 underthesea
-re
 imblearn
